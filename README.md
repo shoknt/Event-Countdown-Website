@@ -1,5 +1,5 @@
 # Event-Countdown-Website
-event countdown website is used to display the countdown of your upcoming event. #mobile responsive #desktop responsive
+event countdown website is used to display the countdown of your upcoming event. 
 
 # How To Run
 Step1:Download the zip file.
