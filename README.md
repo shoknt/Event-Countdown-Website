@@ -17,8 +17,8 @@ Step4:Customize the text and add some Social Media links.
 
 ![SADAS24 - Google Chrome 2024-06-05 17-38-04_1 (1)](https://github.com/ezhilezhil/Event-Countdown-Website/assets/167604422/6a00f400-e3be-43be-a3a6-89a8aaee5524)
 
-# My Portfolio Website
-https://myportfoliowebsite2003.netlify.app/
+# Live Site 
+https://ezhilezhil.github.io/Event-Countdown-Website/
 
 # To Support 
 <a href="https://www.buymeacoffee.com/ezhilarasu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
