@@ -55,7 +55,33 @@
           <p></p>
         </div>
     </div>
-      <div style="position:relative; width:100%; height:0px; padding-bottom:56.426%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/k6l4ew?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+      <div class="background-vid">
+   <video autoplay loop muted>
+      <source src="videos/background.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+   </video>
+</div>
+
+<style>
+   .background-vid {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: -1;
+      overflow: hidden;
+   }
+
+   .background-vid video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      position: absolute;
+      top: 0;
+      left: 0;
+   }
+</style>
 <script>
     // Set the date we're counting down to (April 25, 2024)
     var countDownDate = new Date("oct 20, 2024 00:00:00").getTime();
